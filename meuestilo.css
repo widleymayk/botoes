@@ -1,0 +1,22 @@
+#cabecalho { 
+    color: rgb(0, 0, 105)
+}
+
+#conteudo {
+ color: rgb(1, 84, 84)
+
+}
+
+#rodape {
+ color:rgb(87, 85, 85)
+
+}
+
+.destaque{
+ 
+
+}
+.texto_negrito {
+ font-weight: bold;
+ 
+}
